@@ -30,5 +30,5 @@ Are you ready to join the action? Whether you're a seasoned gamer or new to the 
 Follow us on social media and stay updated on the latest news, updates, and releases in the world of gaming. Don't miss out on the next big thing!
 
 ---
- gta w
+ gta 
 © 2024 Gaming Universe. All rights reserved. 
