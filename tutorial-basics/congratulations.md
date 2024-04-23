@@ -21,10 +21,4 @@ Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://
 - Add a [search bar](https://docusaurus.io/docs/search)
 - Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
 - Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
-<<<<<<< HEAD
 
--- hi h
-*weweewe*
-=======
-- congf
->>>>>>> 9684c36247d85927239d6267b6bae333b97f2bff
